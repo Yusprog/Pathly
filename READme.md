@@ -1,6 +1,6 @@
-# BearMAPS
+# Pathly
 
-BearMaps is an interactive mapping web application that allows a user to navigate around the vicinity of the Berkeley downtown area in Berkeley, California.
+Pathly is an interactive mapping web application that allows a user to navigate around the vicinity of the Berkeley downtown area in Berkeley, California.
 I implemented the back-end "smart" features of this program including rastering, dragging/zooming, shortest path finding, auto-complete search and turn-by-turn directions. 
 
 Data structures and algorithms such as Heap, Trie, K-D Tree and A* search were implemented from scratch in Java to learn object-oriented programming.
@@ -25,5 +25,3 @@ Data structures and algorithms such as Heap, Trie, K-D Tree and A* search were i
 |  [ArrayHeapMinPQ](https://github.com/Emma003/CS61B/tree/main/proj2ab/bearmaps#:~:text=.%E2%80%8A.-,ArrayHeapMinPQ.java,-puzzle%20solder%20done)    | A min-heap priority queue backs the A* search algorithm.
 |  [Router](https://github.com/Emma003/CS61B/tree/main/proj2d/bearmaps/proj2d#:~:text=7%20hours%20ago-,Router.java,-implemented%20every%20thing)    | Creates the list of directions corresponding to a route on the graph
 
-## Acknowledgements
-Adapted from a project (mainly proj2) in UC Berkeley CS 61B Data Structures, Fall 2020, taught by Josh Hug.
