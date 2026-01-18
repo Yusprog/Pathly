@@ -25,3 +25,6 @@ Data structures and algorithms such as Heap, Trie, K-D Tree and A* search were i
 |  [ArrayHeapMinPQ](https://github.com/Yusprog/Pathly/tree/1079196b0bf8da70f04bb1b630bec954db83424f/bearmaps/proj2ab)    | A min-heap priority queue backs the A* search algorithm.
 |  [Router](https://github.com/Yusprog/Pathly/tree/4aa2246c495034824df2a0bde4412ff4299fb142/bearmaps/proj2d)    | Creates the list of directions corresponding to a route on the graph
 
+
+## Acknowledgements
+Adapted from a project in UC Berkeley CS-61B Data Structures & Algorithms, Fall 2023, taught by Justin Yokota and Josh Hug.
