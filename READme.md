@@ -1,4 +1,4 @@
-# Pathly
+# Pathly - GPS Clone
 
 Pathly is an interactive mapping web application that allows a user to navigate around the vicinity of the Berkeley downtown area in Berkeley, California.
 I implemented the back-end "smart" features of this program including rastering, dragging/zooming, shortest path finding, auto-complete search and turn-by-turn directions. 
