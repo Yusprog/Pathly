@@ -23,5 +23,5 @@ Data structures and algorithms such as Heap, Trie, K-D Tree and A* search were i
 |  [TrieSet](https://github.com/Emma003/CS61B/tree/main/proj2d/bearmaps/proj2ab#:~:text=2%20years%20ago-,TrieSet.java,-implemented%20every%20thing)    | A TrieSet backs the autocomplete search feature, matching a prefix to valid location names in Θ(k) time, where k in the number of words sharing the prefix. |
 |  [KD Tree](https://github.com/Emma003/CS61B/tree/main/proj2ab/bearmaps#:~:text=4%20months%20ago-,KDTree.java,-done%20with%20proj2a)    | A K-Dimensional Tree backs the A* search algorithm, allowing efficient nearest neighbor lookup averaging O(log(n)) time.                                    |
 |  [ArrayHeapMinPQ](https://github.com/Emma003/CS61B/tree/main/proj2ab/bearmaps#:~:text=.%E2%80%8A.-,ArrayHeapMinPQ.java,-puzzle%20solder%20done)    | A min-heap priority queue backs the A* search algorithm.
-|  [Router](https://github.com/Emma003/CS61B/tree/main/proj2d/bearmaps/proj2d#:~:text=7%20hours%20ago-,Router.java,-implemented%20every%20thing)    | Creates the list of directions corresponding to a route on the graph
+|  [Router](https://github.com/Yusprog/Pathly/tree/4aa2246c495034824df2a0bde4412ff4299fb142/bearmaps/proj2d)    | Creates the list of directions corresponding to a route on the graph
 
