@@ -27,4 +27,4 @@ Data structures and algorithms such as Heap, Trie, K-D Tree and A* search were i
 
 
 ## Acknowledgements
-Adapted from a project in UC Berkeley CS-61B Data Structures & Algorithms, Fall 2023, taught by Justin Yokota and Josh Hug.
+Adapted from a project in UC Berkeley CS-61B Data Structures & Algorithms, Fall 2024, taught by Justin Yokota and Josh Hug.
